@@ -97,7 +97,7 @@ section:first-of-type {
 section h2 {
   font-size: clamp(1.1rem, 2.2vw, 1.25rem);
   margin: 0 0 0.5rem;
-  color: var(--accent);
+  color: #111
   letter-spacing: 0.02em;
 }
 
